@@ -1,5 +1,7 @@
 // 2) Lógica proposicional 
 // Lógica proposicional 
+// Para probar este código, debes comentar y descomentar las p y q que necesites, solo debe
+// estar habilitada una p y una q al tiempo.
 p = true
 q = true
 // p = true
